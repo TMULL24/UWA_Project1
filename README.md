@@ -1,4 +1,4 @@
-# UWA_Project1
+# UWA_Project_1
 
 ## Automated ELK Stack Deployment
 
